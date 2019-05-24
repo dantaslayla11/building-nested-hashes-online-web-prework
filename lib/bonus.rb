@@ -21,7 +21,7 @@ def bonus
   }
 
 
- puts 
+ puts bonus
 
   #code your solution here:
 
