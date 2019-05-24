@@ -22,7 +22,8 @@ def bonus
 
 
  
-def bonus
+def bonus 
+  epic_tragedy[:Montague][:hero][:name] = "dead"
   
   #code your solution here:
 
